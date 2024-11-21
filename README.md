@@ -24,6 +24,8 @@ Package Name: app.revanced.android.youtube
 ## Google Photos
 Repo: https://github.com/Lobanokivan11/RV-PHOTOS-APK
 
-Package Name app.revanced.android.photos
+Package Name: app.revanced.android.photos
 ## Google News
-https://github.com/Lobanokivan11/RV-NEWS-APK
+Repo: https://github.com/Lobanokivan11/RV-NEWS-APK
+
+Package Name: app.revanced.android.magazines
