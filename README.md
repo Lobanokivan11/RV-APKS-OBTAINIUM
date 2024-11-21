@@ -14,3 +14,4 @@ If You Have SHIZUKU/SUI permission that granted to OBTAINIUM, you don't need to 
 # Repos With Revanced Apps
 ## Revanced Official
 [YT Music](https://github.com/Lobanokivan11/RV-YTMUSIC-APK)
+[Youtube](https://github.com/Lobanokivan11/RV-YT-APK)
