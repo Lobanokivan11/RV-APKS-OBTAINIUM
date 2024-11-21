@@ -15,3 +15,5 @@ If You Have SHIZUKU/SUI permission that granted to OBTAINIUM, you don't need to 
 ## Revanced Official
 [YT Music](https://github.com/Lobanokivan11/RV-YTMUSIC-APK)
 [Youtube](https://github.com/Lobanokivan11/RV-YT-APK)
+[Google Photos](https://github.com/Lobanokivan11/RV-PHOTOS-APK)
+[Google News](https://github.com/Lobanokivan11/RV-NEWS-APK)
