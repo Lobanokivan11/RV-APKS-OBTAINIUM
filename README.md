@@ -22,6 +22,8 @@ Repo: https://github.com/Lobanokivan11/RV-YT-APK
 
 Package Name: app.revanced.android.youtube
 ## Google Photos
-https://github.com/Lobanokivan11/RV-PHOTOS-APK
+Repo: https://github.com/Lobanokivan11/RV-PHOTOS-APK
+
+Package Name app.revanced.android.photos
 ## Google News
 https://github.com/Lobanokivan11/RV-NEWS-APK
