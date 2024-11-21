@@ -13,11 +13,11 @@ Android May Ask Permission To Install Apk from OBTAINIUM, Grant it.
 If You Have SHIZUKU/SUI permission that granted to OBTAINIUM, you don't need to grant Permission to install, also OBTAINIUM Can automatically Update Revanced Apps
 # Repos With Revanced Apps
 ## Revanced Official
-[YT Music](https://github.com/Lobanokivan11/RV-YTMUSIC-APK)
+## YT Music
 https://github.com/Lobanokivan11/RV-YTMUSIC-APK
-[Youtube](https://github.com/Lobanokivan11/RV-YT-APK)
+## Youtube
 https://github.com/Lobanokivan11/RV-YT-APK
-[Google Photos](https://github.com/Lobanokivan11/RV-PHOTOS-APK)
+## Google Photos
 https://github.com/Lobanokivan11/RV-PHOTOS-APK
-[Google News](https://github.com/Lobanokivan11/RV-NEWS-APK)
+## Google News
 https://github.com/Lobanokivan11/RV-NEWS-APK
