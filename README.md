@@ -18,7 +18,9 @@ Repo: https://github.com/Lobanokivan11/RV-YTMUSIC-APK
 
 Package Name: app.revanced.android.apps.youtube.music
 ## Youtube
-https://github.com/Lobanokivan11/RV-YT-APK
+Repo: https://github.com/Lobanokivan11/RV-YT-APK
+
+Package Name: app.revanced.android.youtube
 ## Google Photos
 https://github.com/Lobanokivan11/RV-PHOTOS-APK
 ## Google News
