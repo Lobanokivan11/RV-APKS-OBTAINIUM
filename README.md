@@ -32,4 +32,4 @@ Package Name: app.revanced.android.magazines
 ## Soundcloud
 Repo: https://github.com/Lobanokivan11/RV-SOUNDCLOUD-APK
 
-Package Name:
+Package Name: com.soundcloud.android
