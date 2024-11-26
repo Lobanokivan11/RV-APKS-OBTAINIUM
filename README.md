@@ -29,3 +29,7 @@ Package Name: app.revanced.android.photos
 Repo: https://github.com/Lobanokivan11/RV-NEWS-APK
 
 Package Name: app.revanced.android.magazines
+## Soundcloud
+Repo: https://github.com/Lobanokivan11/RV-SOUNDCLOUD-APK
+
+Package Name:
