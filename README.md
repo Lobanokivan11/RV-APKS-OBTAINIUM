@@ -36,6 +36,8 @@ Package Name: com.soundcloud.android
 # Revanced Extended (Inotia00)
 ## YT Music
 Repo: https://github.com/Lobanokivan11/RVX-YTMUSIC-APK
+
+Package Name: app.rvx.android.apps.youtube.music
 ## Youtube
 Repo: https://github.com/Lobanokivan11/RVX-YT-APK
 
