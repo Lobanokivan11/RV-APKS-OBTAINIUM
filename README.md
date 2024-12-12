@@ -38,3 +38,5 @@ Package Name: com.soundcloud.android
 Repo: https://github.com/Lobanokivan11/RVX-YTMUSIC-APK
 ## Youtube
 Repo: https://github.com/Lobanokivan11/RVX-YT-APK
+
+Package Name: app.rvx.android.youtube
