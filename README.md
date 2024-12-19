@@ -33,6 +33,10 @@ Package Name: app.revanced.android.magazines
 Repo: https://github.com/Lobanokivan11/RV-SOUNDCLOUD-APK
 
 Package Name: com.soundcloud.android
+## Spotify
+Repo: https://github.com/Lobanokivan11/RV-SPOTIFY-APK
+
+Package Name: com.spotify.music
 # Revanced Extended (Inotia00)
 ## YT Music
 Repo: https://github.com/Lobanokivan11/RVX-YTMUSIC-APK
