@@ -8,9 +8,14 @@
 5. After success verifing, Revanced Apks need To Seen "Added Apps" Section.
 6. Click Into Revanced Apps and Click Install or Update button to finish Revanced installing and updating.
 7. That's all you installed and updated Revanced Apps.
-# NOTE!!! 
+# NOTE!!!
+## Firstly
 Android May Ask Permission To Install Apk from OBTAINIUM, Grant it.
 If You Have SHIZUKU/SUI permission that granted to OBTAINIUM, you don't need to grant Permission to install, also OBTAINIUM Can automatically Update Revanced Apps
+## Secondly
+No-Root Apks Requires A Revanced GmsCore (MicroG) To Youtube Revanced Work
+You may select 1 of three Gmscore apks:
+
 # Repos With Revanced Apps
 # Revanced Official
 ## YT Music
