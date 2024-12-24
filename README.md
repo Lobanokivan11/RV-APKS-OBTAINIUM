@@ -16,7 +16,10 @@ If You Have SHIZUKU/SUI permission that granted to OBTAINIUM, you don't need to 
 No-Root Apks Requires A Revanced GmsCore (MicroG) To Youtube Revanced Work
 You may select 1 of three Gmscore apks:
 Official ReVanced GmsCore: https://github.com/ReVanced/GmsCore
+
 Microg-Re from WSTxda: https://github.com/WSTxda/MicroG-RE
+
+My Revanced GmsCore: https://github.com/Lobanokivan11/DIY-MICROG-REVANCED
 # Repos With Revanced Apps
 # Revanced Official
 ## YT Music
