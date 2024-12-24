@@ -17,15 +17,14 @@ No-Root Apks Requires A Revanced GmsCore (MicroG) To Youtube Revanced Work
 <details>
   <summary>You may select 1 of three Gmscore apks:</summary>
 
-![Banner](https://raw.githubusercontent.com/WSTxda/MicroG-RE/master/Images/Light.png)
+![Official ReVanced GmsCore](https://github.com/ReVanced/GmsCore)
+
+![Microg-Re from WSTxda](https://github.com/WSTxda/MicroG-RE)
+
+![My Revanced GmsCore](https://github.com/Lobanokivan11/DIY-MICROG-REVANCED)
 
 </details>
 
-Official ReVanced GmsCore: https://github.com/ReVanced/GmsCore
-
-Microg-Re from WSTxda: https://github.com/WSTxda/MicroG-RE
-
-My Revanced GmsCore: https://github.com/Lobanokivan11/DIY-MICROG-REVANCED
 # Repos With Revanced Apps
 # Revanced Official
 ## YT Music
