@@ -23,8 +23,8 @@ No-Root Apks Requires A Revanced GmsCore (MicroG) To Youtube Revanced Work
 
 ![My Revanced GmsCore](https://github.com/Lobanokivan11/DIY-MICROG-REVANCED)
 
-I recommends select My Revanced GmsCore from https://github.com/Lobanokivan11/DIY-MICROG-REVANCED.
-This Gmscore is syncing with latest Official MicroG Repo.
+I recommends select My Revanced GmsCore from https://github.com/Lobanokivan11/DIY-MICROG-REVANCED
+This Gmscore is syncing with latest Official MicroG Repo: https://github.com/microg/GmsCore so this GmsCore has latest version (New Interface, New Features, Lots of fixes).
 
 </details>
 
