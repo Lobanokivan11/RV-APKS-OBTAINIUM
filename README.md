@@ -57,7 +57,7 @@ Package Name: com.spotify.music
 ## Netguard
 Repo: https://github.com/Lobanokivan11/RV-NETGUARD-APK
 
-Package Name: com.spotify.music
+Package Name: eu.faircode.netguard
 # Revanced Extended (Inotia00)
 ## YT Music
 Repo: https://github.com/Lobanokivan11/RVX-YTMUSIC-APK
