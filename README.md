@@ -54,6 +54,10 @@ Package Name: com.soundcloud.android
 Repo: https://github.com/Lobanokivan11/RV-SPOTIFY-APK
 
 Package Name: com.spotify.music
+## Netguard
+Repo: https://github.com/Lobanokivan11/RV-NETGUARD-APK
+
+Package Name: com.spotify.music
 # Revanced Extended (Inotia00)
 ## YT Music
 Repo: https://github.com/Lobanokivan11/RVX-YTMUSIC-APK
